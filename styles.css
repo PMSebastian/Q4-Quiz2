@@ -1,0 +1,29 @@
+body {
+	text-align: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-image: linear-gradient(lightseagreen, darkslateblue);
+	background-color: darkslateblue;
+}
+
+
+.navbar {
+	padding:15px
+}
+
+.nav-item {
+	margin-left: 10px;
+}
+
+#content {
+	margin-top: 150px;
+	margin-bottom: 50px;
+	margin-left: 15px;
+	margin-right: 15px;
+	align-content: center;
+}
+
+#logo {
+	width: 70px;
+	height:70px;
+}
